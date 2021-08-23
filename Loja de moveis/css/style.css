@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap');
+
+.container{
+  height: 100%;
+  width: 100%;
+}
+nav ul li {
+  display: inline-block;
+  align-items: center;
+  padding-right: 160px;
+  font-family: 'Exo 2', sans-serif;
+  margin-top: -400px;  
+}
+.logo{
+  margin: 0 0 0 70px;
+  margin-top: 30px;
+  font-family: 'Exo 2', sans-serif;
+}
+.icons{
+  margin: 0 0 0 1310px;
+  margin-top: -21px;
+}
+.icons2{
+  margin: 0 0 0 1374px;
+  margin-top: -27px; 
+}
+.img1{
+  width: 1040px;
+  height: 620px;
+  margin-top: 30px;
+}
+.img2{
+  margin: 120px;
+  width: 140px;
+  height: 160px;
+  position:relative;
+  margin-top: 10px;
+}
+.frs{
+  margin: 60px;
+  width: 25%;
+  height: 100%;
+  position: relative;
+  background: white;
+  opacity: 80%;
+  overflow: hidden;
+  margin-top: -479px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Merriweather', serif;
+}
+.sectiontwo{
+  background-color: #b6bdc6;
+  font-family: 'Exo 2', sans-serif;
+  height: 170px;
+}
+.img3{
+  width: 130px;
+  height: 113px;
+  margin: 150px;
+  margin-top: -24px;
+}
+.img4{
+  width: 140px;
+  height: 193px;
+  margin: 170px;
+  margin-top: -24px;
+}
+.img5{
+  width: 140px;
+  height: 183px;
+  margin: 170px;
+  margin-top: -24px;
+}
+.img6{
+  width: 140px;
+  height: 183px;
+  margin: 170px;
+  margin-top: -24px;
+}
+.img7{
+  width: 140px;
+  height: 183px;
+  margin: 170px;
+  margin-top: -24px;
+}
